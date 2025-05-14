@@ -1,0 +1,299 @@
+:: StoryTitle
+cachorro perdido
+
+
+:: StoryData
+{
+  "ifid": "093252E6-116D-44BB-92F6-7FEEF05CF659",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Cena 1 - O Encontro na Chuva",
+  "zoom": 1
+}
+
+
+:: \ Livros Recomendados {"position":"325,925","size":"100,100"}
+\:: Livros Recomendados
+E você pode aprender tudo isso com nosso pacote especial de eBooks:
+
+📘 **Treinamento de cães adultos**  
+📗 **Treinamento de filhotes**  
+📙 **Alimentação ideal e cuidados para cães**
+
+🔥 **Mega promoção: 3 eBooks completos por apenas R$ 28,90!**
+
+Esta é a oportunidade de mudar a vida do seu companheiro — e a sua também.  
+Seu melhor amigo agradece. 🐾
+
+💥 Não perca tempo:
+
+[[👉 Quero aprender agora!->https://pay.kiwify.com.br/8IorV3i]]
+
+
+
+:: Cena 1 - O Encontro na Chuva {"position":"350,100","size":"100,100"}
+Você está caminhando por uma rua deserta, à noite.
+A chuva cai lentamente, a escuridão ao seu redor parece engolir o som de seus passos.
+De repente, você vê um cachorro abandonado no meio da rua.
+Ele te observa fixamente, com os olhos cheios de lágrima…
+Como se quisesse dizer algo.
+
+O tempo parece parar por um instante.
+O que você faz?
+
+Escolhas:
+→ [[Aproximar-se do cachorro, pegar para cuidar|Cena 2 - O Olhar do Animal]]
+→ [[Ignorar o cachorro e seguir seu caminho|Cena 8 - O Espelho Quebrado]]
+
+
+
+
+
+:: Cena 10 - O Quarto Secreto {"position":"575,325","size":"100,100"}
+Você encontra o cachorrinho do mesmo jeito que naquela noite chuvosa: sofrendo, molhado, indefeso...  
+Mas agora, você realmente decide ajudar.
+O que você decide fazer?
+
+[[Ligar para as autoridades virem buscar?|Cena 12 - Mistério]]  
+[[leva para casa ?|Cena 13 - O Mistério Desvendado]]
+
+
+
+:: Cena 11 - A Revelação da Foto {"position":"925,225","size":"100,100"}
+Mesmo depois de tudo o que você viveu...
+Você realmente não sentiu nada ao ver aquele cachorrinho na chuva, sozinho, machucado e com medo?
+
+Talvez você ainda não tenha descoberto o quanto um animal pode transformar uma vida.
+Talvez o amor pelos animais ainda não tenha despertado em você.
+
+Mas nunca é tarde.
+E se você desse uma chance?
+E se deixasse um cachorro entrar na sua vida?
+
+Com carinho, paciência e o conhecimento certo, tudo pode mudar.
+E nós podemos te ajudar a dar esse primeiro passo.
+
+Escolhas:podemos continuar
+[[sim|Mistério]]
+[[não|]]
+
+
+:: Cena 12 - A Verdade Por Trás do Mistério {"position":"0,700","size":"100,100"}
+Hoje em dia, as maldades são cruéis demais…
+Muitas pessoas não cuidam dos seus animaizinhos.
+Deixam abandonados, não se preocupam com a alimentação,
+não oferecem carinho… nem o treinamento que eles precisam.
+
+Você entende agora:
+este cachorro não foi apenas uma missão ou acaso.
+Ele foi um teste de empatia… e um espelho do seu próprio coração.
+
+E agora, cabe a você decidir:
+
+→ [[Você realmente ama seu cachorro|Cena 13 - O Mistério Desvendado]]
+→ [[Você não se importa com os cachorros?|Cena 14 - Fim]]
+
+
+(audio: "https://seulink.com/audio/emocional.mp3")[loop]
+(play: "reflexao")
+
+
+:: Cena 12 - Mistério {"position":"475,700","size":"100,100"}
+Você é uma pessoa que não tem animais em casa,  
+mas se importa com os bichinhos na rua.
+E o que acha de adotar um?  
+Criá-lo com todo o treinamento necessário e alimentação adequada?
+
+Muitas vezes, um cachorrinho muda a vida da gente. 🐶❤️
+
+[[Saiba mais -> Livros Recomendados]]
+
+
+
+:: Cena 13 - O Mistério Desvendado {"position":"350,625","size":"100,100"}
+Se você chegou até aqui, realmente é uma pessoa que ama os animais...  
+Ama seus pets. Você é uma pessoa incrível, faz tudo por eles.  
+*porque eles mecen todo cuidado.*
+
+O que você quer fazer agora?
+
+[[Ele merece todo amor seu e cuidado?|Cena 14 - Fim]]
+[[Desistir|Cena 14 - Fim]]
+
+
+
+:: Cena 14 - Fim {"position":"200,725","size":"100,100"}
+Você chegou ao fim da jornada...  
+Mas talvez este seja só o começo da verdadeira missão.
+Seu fiel companheiro depende de você — e o maior perigo é a falta de preparação.
+Você enfrentou a chuva, o mistério e descobriu que todo cão tem uma história.  
+Agora, é hora de dar a ele o que ele realmente merece.
+Seu cachorro precisa mais do que carinho.  
+Ele precisa de:
+
+✔️ Treinamento com amor e técnica  
+✔️ Alimentação correta e saudável  
+✔️ Entendimento do comportamento canino  
+
+[[Saiba mais -> Livros Recomendados]]
+
+
+:: Cena 2 - O Olhar do Animal {"position":"100,100","size":"100,100"}
+Você se aproxima do cachorro.
+Ele olha diretamente nos seus olhos, como se estivesse esperando algo.
+Por um breve instante, você sente uma sensação estranha...
+Como se aquele cachorro escondesse um segredo profundo.
+A chuva continua caindo, mas agora... o silêncio parece mais pesado.
+ que você faria?
+ 
+→ [[Mesmo assim, continuaria ajudando o cachorro|Cena 3 - A Coleira Rasgada]]
+→ [[Ou sairia rapidamente|Cena 9 - O Som do Passo na Escada]]
+
+
+
+
+
+
+
+:: Cena 3 - A Coleira Rasgada {"position":"50,250","size":"100,100"}
+Você nota que a coleira do cachorro está rasgada,
+mas ainda tem uma letra gravada nela.
+O que significa aquilo?
+Um nome? Um código? Uma pista?
+Você sente que há algo mais nesse cão do que apenas um simples animal perdido.
+Algo que ele não pode dizer… mas quer mostrar.
+O que você decide fazer?
+
+→ [[Tentar decifrar o código|Cena 4 - O Quarto Fechado]]
+→ [[Ignorar e seguir adiante|Cena 5 - Um Objeto Enterrado]]
+
+
+
+
+
+
+
+:: Cena 4 - O Quarto Fechado {"position":"50,375","size":"100,100"}
+O cachorro começa a rosnar e demonstrar um comportamento estranho...
+Ele pula nos móveis, arranha a porta fechada e derruba objetos.
+Algo o incomoda.
+Talvez um cheiro? Uma lembrança? Um trauma?
+Mesmo assim, uma parte de você sente que ainda é importante cuidar dele.
+Mas será que você está preparado para lidar com isso?
+O que decide?
+
+→ [[Continuaria a cuidar|Cena 6 - A Transformação]]
+→ [[Ou devolveria ele|Cena 7 - O Mistério Revelado]]
+
+
+
+
+
+:: Cena 5 - Um Objeto Enterrado {"position":"275,325","size":"100,100"}
+
+O cachorro começa a cavar freneticamente no quintal, até que encontra algo. É uma foto rasgada de outro cachorro, mas com a mesma coleira. Quem era o dono deste cão? E por que a foto foi enterrada?
+
+Escolhas:
+[[Guardar a foto e investigar mais tarde|Cena 10 - O Quarto Secreto]]
+[[Seguir o cachorro até outro canto do quintal|Cena 11 - A Revelação da Foto]]
+
+
+
+
+:: Cena 6 - A Transformação {"position":"225,475","size":"100,100"}
+Com o tempo, o cachorro começa a mudar.
+Ele se torna mais calmo, mais confiante... como se estivesse se preparando para algo.
+
+Você percebe que a conexão entre vocês cresceu.
+Mas mesmo agora, com ele mais tranquilo, algo permanece escondido.
+
+Um olhar distante às vezes. Um silêncio inquietante.
+Ele ainda guarda um segredo maior?
+
+O que você decide fazer?
+
+→ [[Investigar o passado do cachorro|Cena 7 - O Mistério Revelado]]
+→ [[Focar apenas no presente e continuar o treinamento|Cena 12 - Mistério]]  
+
+
+
+
+:: Cena 7 - O Mistério Revelado {"position":"0,475","size":"100,100"}
+Você segue os rastros do passado…
+E o que descobre abala suas certezas.
+
+O cachorro não era apenas um animal perdido.
+Ele fazia parte de uma experiência científica secreta — algo que escapou do controle.
+
+Talvez ele tenha sido treinado, modificado, observado.
+Mas por quê? E por quem?
+
+Você olha nos olhos dele… e se pergunta:
+“Qual é o verdadeiro propósito dele na minha vida?”
+
+Qual seria seu sentimento ao descobrir tudo isso?
+
+→ [[Sentiria muito dó… e teria ainda mais amor pelo seu cachorrinho?|Cena 12 - A Verdade Por Trás do Mistério]]
+→ [[Abandonar tudo e voltar para a vida normal|Cena 8 - O Espelho Quebrado]]
+
+
+
+(audio: "https://seulink.com/audio/misterio-tenso.mp3")[loop]
+(play: "revelacao")
+
+
+
+
+:: Cena 8 - O Espelho Quebrado {"position":"600,0","size":"100,100"}
+Em uma parte do caminho, ele fica imaginando o cachorrinho na chuva, com frio e machucado...  
+Algo não está certo aqui.
+
+O que fazer?
+
+[[Continuo no meu caminho|Cena 9 - O Som do Passo na Escada]]  
+[[Volto buscar o cachorrinho|Cena 10 - O Quarto Secreto]]
+
+
+
+:: Cena 9 - O Som do Passo na Escada {"position":"850,100","size":"100,100"}
+É noite. Tudo está quieto, até que você ouve um som vindo de longe...
+Imediatamente, a imagem daquele cachorro, sozinho na chuva, volta à sua mente.
+Ele estava com frio, com medo, sofrendo — e você seguiu em frente.
+
+Algo aperta no peito.
+Você conseguiria mesmo dormir tranquilo, sabendo que uma vida inocente ainda está lá fora, pedindo ajuda?
+[[nao?|Cena 10 - O Quarto Secreto]]
+[[sim?|Cena 11 - A Revelação da Foto]]
+
+
+:: Mistério {"position":"725,575","size":"100,100"}
+Se você chegou até aqui, é porque talvez… você não seja uma pessoa ruim.
+Só não foi  uma boa experiência com pets — e tudo bem.
+
+Muita gente nunca aprendeu de verdade como cuidar de um cachorro.
+Mas ter um cão vai muito além de apenas “ter um animal em casa”.
+
+É preciso treinar, alimentar corretamente e oferecer os cuidados certos.
+E quando você entende isso, descobre que ter um cachorro pode ser uma das melhores coisas da vida.
+
+👉 E se você desse o primeiro passo hoje?
+
+📘 Com o aprendizado certo, tudo se torna mais fácil — até adotar um cãozinho com confiança e carinho.
+
+💡 Aprenda como educar, alimentar e cuidar do seu cão da forma correta:
+[[Quero aprender agora!->https://pay.kiwify.com.br/8IorV3i]]
+
+
+:: avida de um cachorro {"position":"225,0","size":"100,100"}
+Você realmente gosta de cachorro, diga com sinceridade:?
+vai os continuar?
+[[Cena 1 - O Encontro na Chuva]]
+
+
+:: não| {"position":"925,475","size":"100,100"}
+Está tudo bem. Respeitamos sua decisão.
+Obrigado por vir até aqui e dedicar seu tempo.
+
+
+inicio
+[[Cena 1 - O Encontro na Chuva]]
